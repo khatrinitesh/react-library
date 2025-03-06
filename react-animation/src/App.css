@@ -1,0 +1,11 @@
+section{
+  height: 100dvh;
+  width: 100%;
+}
+
+section:nth-child(even){
+  background-color: aquamarine;
+}
+section:nth-child(odd){
+  background-color: burlywood;
+}
